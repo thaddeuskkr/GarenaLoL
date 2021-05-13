@@ -1,0 +1,27 @@
+{
+  "name": "garenastats",
+  "version": "1.4.5",
+  "description": "Garena League of Legends stats tracking Discord bot.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thaddeuskkr/GarenaLoL.git"
+  },
+  "author": "Thaddeus Kuah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thaddeuskkr/GarenaLoL/issues"
+  },
+  "homepage": "https://github.com/thaddeuskkr/GarenaLoL#readme",
+  "dependencies": {
+    "cat-loggr": "^1.1.0",
+    "discord-paginationembed": "^2.1.0",
+    "discord.js": "^12.5.3",
+    "dotenv": "^9.0.2",
+    "moment": "^2.29.1",
+    "node-fetch": "^2.6.1"
+  }
+}
