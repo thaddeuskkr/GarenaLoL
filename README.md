@@ -16,7 +16,10 @@ git clone https://github.com/thaddeuskkr/GarenaLoL.git
 ```sh
 npm i
 ```
-**Step 3:** Run the bot.
+**Step 3:** Fill up the config file.
+- Rename `.env.example` to `.env`
+- Fill up the token and the prefixless channel.
+**Step 4:** Run the bot.
 ```sh
 npm start
 ```
